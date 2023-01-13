@@ -1,0 +1,27 @@
+{
+  "name": "platzi-npm-shaggyt851",
+  "version": "1.0.0",
+  "description": "generador de mensajes aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript, react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaggyt85/platzi-npm-shaggyt851.git"
+  },
+  "keywords": [
+    "javascript",
+    "react"
+  ],
+  "author": "Robert Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaggyt85/platzi-npm-shaggyt851/issues"
+  },
+  "homepage": "https://github.com/shaggyt85/platzi-npm-shaggyt851#readme",
+  "bin": {
+    "platzi-npm-shaggyt851": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
